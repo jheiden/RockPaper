@@ -1,0 +1,17 @@
+
+body {
+    background: vanilla;  
+}
+
+#navbar {
+    background-color:burlywood;
+    border: 1px solid black;
+    text-align: center; 
+}
+
+h1 {
+    font-family: monospace;
+    background-color: lightgrey;
+    
+    
+}
